@@ -1,4 +1,6 @@
 // Assignment code here
+// Need to have inputs of length, special characters, and should be validated
+
 
 
 // Get references to the #generate element
