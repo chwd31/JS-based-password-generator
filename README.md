@@ -7,6 +7,12 @@ Students were given a starter code to correct to create a functioning password g
 
 
 ## Usage
+This password generator is for use by anyone. 
+You will be prompted to choose a length between 8-128 characters.
+User will also be prompted to choose whether or not to include special characters.
+
+### Image of Site
+![Screen Shot 2022-12-22 at 1 43 20 PM](https://user-images.githubusercontent.com/118683737/209215598-0d405862-fdbc-4581-afd9-da78d34d98b2.png)
 
 
 
