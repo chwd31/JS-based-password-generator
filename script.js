@@ -1,10 +1,13 @@
 // Assignment code here
 // Need to have inputs of length, special characters, and should be validated
+function generatePassword(){
 var passLength = prompt("choose a length between 8 to 128 characters")
 var charLower = prompt("Should your password include lowercase? Yes/no")
 var charUpper = prompt("Should your password include uppercase? Yes/no")
 var specChar = prompt("Should your password include special characters? Yes/no")
 var numeric = prompt("Should your password include numbers? Yes/no")
+}
+
 
 
 // Get references to the #generate element
